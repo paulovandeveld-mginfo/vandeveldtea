@@ -1,5 +1,5 @@
-# phamthoai346464
+# Vandeveld - Tea OSS Project
 
-Một thư viện giúp bạn tính tổng của 2 số bất kỳ
+Uma biblioteca que ajuda você a calcular a soma de 2 números quaisquer.
 
-Đơn giản, dễ dùng, cực kỳ nhẹ
+Simples, fácil de usar, extremamente leve.
