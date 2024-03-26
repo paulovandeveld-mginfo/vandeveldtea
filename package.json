@@ -1,7 +1,7 @@
 {
-  "name": "phamthoai346464",
+  "name": "vandeveldtea",
   "version": "1.3.0",
-  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "description": "Uma biblioteca que ajuda você a calcular a soma de 2 números quaisquer.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,15 +26,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/phamthoai346464/phamthoai346464"
+    "url": "https://github.com/paulovandeveld-mginfo/vandeveldtea"
   },
-  "homepage": "https://twitter.com/phamthoai346464",
+  "homepage": "https://twitter.com/vandeveldpaulo",
   "keywords": [
     "sum",
     "add",
     "tong",
     "cong"
   ],
-  "author": "phamthoai346464",
-  "license": "MIT"
+  "author": "paulovandeveld-mginfo",
+  "license": "UFMG"
 }
